@@ -1,0 +1,5 @@
+c:\users\lucas.velasquez\documents\visual studio 2013\Projects\storedProc\storedProc\obj\Debug\storedProc.csprojResolveAssemblyReference.cache
+c:\users\lucas.velasquez\documents\visual studio 2013\Projects\storedProc\storedProc\bin\Debug\storedProc.dll
+c:\users\lucas.velasquez\documents\visual studio 2013\Projects\storedProc\storedProc\bin\Debug\storedProc.pdb
+c:\users\lucas.velasquez\documents\visual studio 2013\Projects\storedProc\storedProc\obj\Debug\storedProc.dll
+c:\users\lucas.velasquez\documents\visual studio 2013\Projects\storedProc\storedProc\obj\Debug\storedProc.pdb
